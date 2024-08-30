@@ -1,3 +1,3 @@
 # soundtouch-firmware
 
-https://archive.org/download/bose-soundtouch-software-and-firmware
+https://archive.org/details/bose-soundtouch-software-and-firmware
